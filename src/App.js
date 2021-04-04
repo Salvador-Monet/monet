@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <img src="./monet.png" style={{width:"320px"}}  alt="logo" />
         <p>
-          coloring at the moment
+          Coloring at the moment
         </p>
       </header>
     </div>
